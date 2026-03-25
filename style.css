@@ -17,3 +17,10 @@ button{
 .flex{
     display: flex;
 }
+.buttom{
+    background-color: rgb(147, 194, 138);
+    width: 130px;
+    height: 120px;
+    border-radius: 30%;
+    margin: 10px;
+}
