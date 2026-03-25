@@ -9,7 +9,7 @@ function ordenacao(){
             i--;
         }
     }
-    function insertionSort() {
+    function insertionSort(vetor) {
     for (let i = 1; i < vetor.length; i++) {
         let chave = vetor[i];
         let j = i - 1;
